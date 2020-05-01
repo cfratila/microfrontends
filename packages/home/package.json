@@ -1,6 +1,6 @@
 {
   "name": "@microfrontends/home",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.2-alpha.0",
   "private": true,
   "scripts": {
     "start": "cross-env ENV=dev webpack-dev-server --config webpack.dev.js",
