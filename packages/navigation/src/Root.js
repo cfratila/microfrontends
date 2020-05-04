@@ -25,7 +25,7 @@ export default function Root() {
     <BrowserRouter>
       <Container>
         <Reset />
-        Navigation
+        Navigation 1 TEST
         <Link to="">Home</Link>
         <Link to="/checkout">Checkout</Link>
       </Container>
